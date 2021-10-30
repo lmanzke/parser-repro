@@ -11,6 +11,10 @@ const a = <T>(v: T): T => {
   return v;
 }
 
+const b = ()=>{
+
+}
+
 export default defineComponent({
   name: 'App',
   components: {
